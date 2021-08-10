@@ -1,4 +1,4 @@
-Author: GodwinEke | ekegodwinc@gmail.com
+Conributor: GodwinEke | ekegodwinc@gmail.com
 # Number-Guessing-Game
 
 General Information
