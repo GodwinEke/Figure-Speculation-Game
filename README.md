@@ -1,5 +1,5 @@
 Conributor: GodwinEke | ekegodwinc@gmail.com
-# The Number-Guessing-Game
+# The Figure-Speculation-Game
 
 General Information
 ==========================================================
