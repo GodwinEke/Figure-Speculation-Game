@@ -1,4 +1,4 @@
-Conributor: GodwinEke | ekegodwinc@gmail.com
+Contributor: GodwinEke | ekegodwinc@gmail.com
 # The Figure-Speculation-Game
 
 General Information
